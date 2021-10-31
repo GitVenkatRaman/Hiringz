@@ -1,1 +1,1 @@
-# Hiringz
+# Hiringz:Ultimate Salary Predictor
